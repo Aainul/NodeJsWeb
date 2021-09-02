@@ -1,4 +1,4 @@
-# NodeJsWeb3.0
-NodeJsWeb3.0
+# NodeJsWeb
+NodeJsWeb
 
-https://github.com/Aainul/NodeJsWeb3.0 / tap here for a quick review of my project.
+https://github.com/Aainul/NodeJsWeb / tap here for a quick review of my project.
